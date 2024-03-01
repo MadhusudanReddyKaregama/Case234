@@ -4945,7 +4945,7 @@
 											<Value>2</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-33C73EF383F2"
+													id="000C2934-9B63-A1EE-B5EE-08BDA04643F2"
 													path="Project Management/Web/task_status_assigned.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -4989,7 +4989,7 @@
 											<Value>5</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-33C73EEE83F2"
+													id="000C2934-9B63-A1EE-B5EE-08BDA04143F2"
 													path="Project Management/Web/task_status_completed.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5033,7 +5033,7 @@
 											<Value>1</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-33C73EEA03F2"
+													id="000C2934-9B63-A1EE-B5EE-08BDA03CC3F2"
 													path="Project Management/Web/task_status_created.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5077,7 +5077,7 @@
 											<Value>3</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-33C73EE003F2"
+													id="000C2934-9B63-A1EE-B5EE-08BDA03343F2"
 													path="Project Management/Web/task_status_inprogress.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5121,7 +5121,7 @@
 											<Value>4</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-33C73ED283F2"
+													id="000C2934-9B63-A1EE-B5EE-08BDA02543F2"
 													path="Project Management/Web/task_status_suspend.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5165,7 +5165,7 @@
 											<Value>6</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-33C73EDC03F2"
+													id="000C2934-9B63-A1EE-B5EE-08BDA02F43F2"
 													path="Project Management/Web/task_status_obsolete.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5209,7 +5209,7 @@
 											<Value>7</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-33C73ED703F2"
+													id="000C2934-9B63-A1EE-B5EE-08BDA02943F2"
 													path="Project Management/Web/task_status_paused.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5253,7 +5253,7 @@
 											<Value>8</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-33C73EE503F2"
+													id="000C2934-9B63-A1EE-B5EE-08BDA037C3F2"
 													path="Project Management/Web/task_status_failed.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

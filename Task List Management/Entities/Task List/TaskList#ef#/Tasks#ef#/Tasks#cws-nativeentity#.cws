@@ -1324,7 +1324,7 @@
 											<Value>Open</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-314074AFC3F2"
+													id="000C2934-9B63-A1EE-B5EE-04B79B9B43F2"
 													path="Task List Management/Web/tasklist_status_open.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1368,7 +1368,7 @@
 											<Value>Completed</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-314074BBC3F2"
+													id="000C2934-9B63-A1EE-B5EE-04B79BA743F2"
 													path="Task List Management/Web/tasklist_status_completed.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

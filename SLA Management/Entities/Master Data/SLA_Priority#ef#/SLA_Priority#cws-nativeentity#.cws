@@ -709,7 +709,7 @@
 											<Value>1</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-32BE01EE83F2"
+													id="000C2934-9B63-A1EE-B5EE-073F0842C3F2"
 													path="SLA Management/Web/sla_status_active.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -753,7 +753,7 @@
 											<Value>0</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5EA-32BE01DF83F2"
+													id="000C2934-9B63-A1EE-B5EE-073F0834C3F2"
 													path="SLA Management/Web/sla_status_inactive.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
